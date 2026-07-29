@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rra"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:meio_ra"
+      },
+      "A": {
+        "item": "jedy:meio_r"
+    }  
+    },
+    "result": {
+      "item": "jedy:rra"
+    }
+  }
+}

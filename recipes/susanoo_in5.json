@@ -1,0 +1,45 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:susanoo_in5"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "W#Y",
+      "D#K",
+      "FRS"
+    ],
+    "key": {
+      "K": {
+        "item": "jedy:susanoo_in4"
+      },
+      "D": {
+        "item": "jedy:mk_shukaku2"
+      },
+      "F": {
+        "item": "jedy:mk_matatabi2"
+      },
+      "R": {
+        "item": "jedy:mk_isobu2"
+      },
+      "S": {
+        "item": "jedy:mk_songoku2"
+      },
+      "#": {
+        "item": "jedy:mk_kokuo2"
+      },
+      "W": {
+        "item": "jedy:mk_saiken2"
+      },
+      "Y": {
+        "item": "jedy:mk_choumei2"
+    }  
+    },
+    "result": {
+      "item": "jedy:susanoo_in5"
+    }
+  }
+}

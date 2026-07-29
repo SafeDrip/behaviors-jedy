@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:tenseigana"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:skin3"
+      },
+      "A": {
+        "item": "jedy:tenseigan1"
+    }  
+    },
+    "result": {
+      "item": "jedy:tenseigana"
+    }
+  }
+}

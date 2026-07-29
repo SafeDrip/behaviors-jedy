@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:sharingan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra"
+      },
+      "A": {
+        "item": "jedy:dna_uchiha"
+    }  
+    },
+    "result": {
+      "item": "jedy:sharingan"
+    }
+  }
+}

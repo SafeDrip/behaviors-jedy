@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:roupa_narutob2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:skin1"
+      },
+      "A": {
+        "item": "jedy:roupa_narutob"
+    }  
+    },
+    "result": {
+      "item": "jedy:roupa_narutob2"
+    }
+  }
+}

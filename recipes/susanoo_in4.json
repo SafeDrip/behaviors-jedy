@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:susanoo_in4"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_natural"
+      },
+      "A": {
+        "item": "jedy:susanoo_in3"
+    }  
+    },
+    "result": {
+      "item": "jedy:susanoo_in4"
+    }
+  }
+}

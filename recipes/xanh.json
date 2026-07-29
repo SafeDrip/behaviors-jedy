@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:xanh"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:dna_hyuuga"
+      },
+      "A": {
+        "item": "jedy:barion_kurama"
+    }  
+    },
+    "result": {
+      "item": "jedy:xanh"
+    }
+  }
+}

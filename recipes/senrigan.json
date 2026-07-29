@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:senrigan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:frag_senrigan"
+      },
+      "A": {
+        "item": "jedy:byakugan"
+    }  
+    },
+    "result": {
+      "item": "jedy:senrigan"
+    }
+  }
+}

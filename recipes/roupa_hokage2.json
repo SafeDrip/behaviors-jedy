@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:roupa_hokage2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#Z#",
+      "ZAZ",
+      "#Z#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:rc2"
+      },
+      "Z": {
+        "item": "jedy:hiraishin"
+      },
+      "A": {
+        "item": "jedy:roupa_hokage"
+    }  
+    },
+    "result": {
+      "item": "jedy:roupa_hokage2"
+    }
+  }
+}

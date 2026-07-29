@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:tenseigan_karma"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "AOB",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_natural"
+      },
+      "A": {
+        "item": "jedy:karma"
+      },
+      "B": {
+        "item": "jedy:tenseigan"
+      },
+      "O": {
+        "item": "jedy:dna_otsutsuki"
+    }  
+    },
+    "result": {
+      "item": "jedy:tenseigan_karma"
+    }
+  }
+}

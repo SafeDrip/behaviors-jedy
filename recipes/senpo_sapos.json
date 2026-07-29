@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:senpo_sapos"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "HMH",
+      "HHH",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_natural"
+      },
+      "H": {
+        "item": "jedy:giga_chakra"
+      },
+      "M": {
+        "item": "jedy:ultra_chakra"
+    }  
+    },
+    "result": {
+      "item": "jedy:senpo_sapos"
+    }
+  }
+}

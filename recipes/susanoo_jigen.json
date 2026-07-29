@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:susanoo_jigen"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "#B#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "A": {
+        "item": "jedy:susanoo_s4"
+      },
+      "B": {
+        "item": "jedy:k_jigen2"
+    }  
+    },
+    "result": {
+      "item": "jedy:susanoo_jigen"
+    }
+  }
+}

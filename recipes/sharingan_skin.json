@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:sharingan_skin"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:skin1"
+      },
+      "A": {
+        "item": "jedy:sharingan"
+    }  
+    },
+    "result": {
+      "item": "jedy:sharingan_skin"
+    }
+  }
+}

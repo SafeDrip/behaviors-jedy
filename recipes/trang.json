@@ -1,0 +1,39 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:trang"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "EKE",
+      "#CA",
+      "EDE"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:rinneganu"
+      },
+      "C": {
+        "item": "jedy:barion_kurama"
+      },
+      "D": {
+        "item": "jedy:rikudo_juubi"
+      },
+      "E": {
+        "item": "jedy:dna_otsutsuki"
+      },
+      "K": {
+        "item": "jedy:juubi_completo"
+      },
+      "A": {
+        "item": "jedy:rinnegan"
+    }  
+    },
+    "result": {
+      "item": "jedy:trang"
+    }
+  }
+}

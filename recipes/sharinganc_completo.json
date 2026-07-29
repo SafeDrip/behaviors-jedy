@@ -1,0 +1,45 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:sharinganc_completo"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "W#Y",
+      "D#K",
+      "FRS"
+    ],
+    "key": {
+      "K": {
+        "item": "jedy:mc_sasuke"
+      },
+      "D": {
+        "item": "jedy:mc_shisui"
+      },
+      "F": {
+        "item": "jedy:mc_kakashi"
+      },
+      "R": {
+        "item": "jedy:mc_itachi"
+      },
+      "S": {
+        "item": "jedy:mc_madara"
+      },
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "W": {
+        "item": "jedy:sharinganc"
+      },
+      "Y": {
+        "item": "jedy:sharingan"
+    }  
+    },
+    "result": {
+      "item": "jedy:sharinganc_completo"
+    }
+  }
+}

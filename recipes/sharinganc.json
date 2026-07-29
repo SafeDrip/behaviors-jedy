@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:sharinganc"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:celula_u"
+      },
+      "A": {
+        "item": "jedy:meios"
+    }  
+    },
+    "result": {
+      "item": "jedy:sharinganc"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:susanoo_sh3"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:giga_chakra"
+      },
+      "A": {
+        "item": "jedy:susanoo_sh2"
+    }  
+    },
+    "result": {
+      "item": "jedy:susanoo_sh3"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:susanoo_juubi"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "#Z#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+        
+      },
+      "Z": {
+        "item": "jedy:susanoo_s4"
+      },
+      "A": {
+        "item": "jedy:barion_juubi"
+    }  
+    },
+    "result": {
+      "item": "jedy:susanoo_juubi"
+    }
+  }
+}

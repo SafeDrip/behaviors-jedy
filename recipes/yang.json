@@ -1,0 +1,36 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:yang"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "K##",
+      "D##",
+      "FRS"
+    ],
+    "key": {
+      "K": {
+        "item": "jedy:katon"
+      },
+      "D": {
+        "item": "jedy:doton"
+      },
+      "F": {
+        "item": "jedy:fuuton"
+      },
+      "R": {
+        "item": "jedy:raiton"
+      },
+      "S": {
+        "item": "jedy:suiton"
+    }  
+    },
+    "result": {
+      "item": "jedy:yang"
+    }
+  }
+}

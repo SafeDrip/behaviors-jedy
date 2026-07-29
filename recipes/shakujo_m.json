@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:shakujo_m"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "  G",
+      " A ",
+      "G  "
+    ],
+    "key": {
+      "G": {
+        "item": "jedy:gudoudama"
+      },
+      "A": {
+        "item": "jedy:bastao_chakra"
+    }  
+    },
+    "result": {
+      "item": "jedy:shakujo_m"
+    }
+  }
+}

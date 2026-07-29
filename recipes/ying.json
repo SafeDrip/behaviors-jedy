@@ -1,0 +1,36 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:ying"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "KDF",
+      "##R",
+      "##S"
+    ],
+    "key": {
+      "K": {
+        "item": "jedy:katon"
+      },
+      "D": {
+        "item": "jedy:doton"
+      },
+      "F": {
+        "item": "jedy:fuuton"
+      },
+      "R": {
+        "item": "jedy:raiton"
+      },
+      "S": {
+        "item": "jedy:suiton"
+    }  
+    },
+    "result": {
+      "item": "jedy:ying"
+    }
+  }
+}
