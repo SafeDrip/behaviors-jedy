@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:katonj",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+      "minecraft:display_name": {
+        "value": "§l§c Dança das Chamas \n§a✪Dano: §cRazoável  \n§8✪Alcance: Razoável \n§b✪Destruição: Razoável\n✪Gasto: Razoável"
+          },
+			"minecraft:cooldown": {
+				"category": "chest_beam",
+				"duration": 5
+			},
+			"minecraft:icon": "katonj",
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_modifiers": {
+				"use_duration": 99999,
+				"movement_modifier": 0.5
+			}
+		}
+	}
+}

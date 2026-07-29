@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:inv_jigen",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:display_name": {
+				"value": "inv Jigen"
+			  },
+			"minecraft:cooldown": {
+				"category": "cc",
+				"duration": 5
+			},
+			"minecraft:icon": "inv_jigen",
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_modifiers": {
+				"use_duration": 99999,
+				"movement_modifier": 0.5
+			}
+		}
+	}
+}

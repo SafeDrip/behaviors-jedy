@@ -1,0 +1,32 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:dotonj",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+      "minecraft:display_name": {
+        "value": "§l§c Pilar de Terra \n§a✪Dano: §cNulo  \n§8✪Alcance: Nulo \n§b✪Destruição: Baixo\n✪Gasto: Nulo"
+          },
+			"minecraft:cooldown": {
+				"category": "ssss",
+				"duration": 1
+			},
+			"minecraft:icon": {
+				"texture": "dotonj"
+			},
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_modifiers": {
+				"use_duration": 99999,
+				"movement_modifier": 0.5
+			}
+		}
+	}
+}

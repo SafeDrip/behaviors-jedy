@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:jutsu_mokuton",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+    "minecraft:display_name": {
+		"value": "§l§c Controle da Madeira \n§a✪Dano: §cNulo  \n§8✪Alcance: Moderado \n§b✪Destruição: Baixo\n✪Gasto: Razoável"
+      },
+			"minecraft:cooldown": {
+				"category": "jutsu_mokuton",
+				"duration": 5
+			},
+			"minecraft:icon": "jutsu_mokuton",
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_modifiers": {
+				"use_duration": 99999,
+				"movement_modifier": 0.5
+			}
+		}
+	}
+}

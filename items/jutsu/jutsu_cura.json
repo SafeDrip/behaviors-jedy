@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:jutsu_cura",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:display_name": {
+				"value": "§l§c Cura \n§a✪Dano: §cNulo  \n§8✪Alcance: Nulo \n§b✪Destruição: Nula\n✪Gasto: Moderado"
+			  },
+			"minecraft:cooldown": {
+				"category": "chest_beam",
+				"duration": 5
+			},
+			"minecraft:icon": "jutsu_cura",
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_modifiers": {
+				"use_duration": 99999,
+				"movement_modifier": 0.5
+			}
+		}
+	}
+}
