@@ -1,0 +1,39 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:deus_miranha"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "Z": {
+        "item": "jedy:deus_hokage"
+      },
+      "D": {
+        "item": "jedy:infinito"
+      },
+      "B": {
+        "item": "jedy:karma2"
+      },
+      "C": {
+        "item": "jedy:karma_kaw"
+      },
+      "A": {
+        "item": "jedy:deus_universal"
+    }  
+    },
+    "result": {
+      "item": "jedy:deus_miranha"
+    }
+  }
+}

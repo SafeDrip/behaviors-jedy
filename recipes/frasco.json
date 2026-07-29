@@ -1,0 +1,26 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "jedy:frasco"
+    },
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " AA",
+      "A A",
+      "AA "
+    ],
+    "key": {
+      "A": {
+        "item": "minecraft:glass_pane",
+        "data": 0
+      }
+    },
+    "result": {
+      "item": "jedy:frasco",
+      "count": 1
+    }
+  }
+}

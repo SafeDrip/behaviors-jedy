@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:celulash2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:dna_senju"
+      },
+      "A": {
+        "item": "jedy:celulash"
+    }  
+    },
+    "result": {
+      "item": "jedy:celulash2"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:barion_kuramaa"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:skin1"
+      },
+      "A": {
+        "item": "jedy:barion_kurama"
+    }  
+    },
+    "result": {
+      "item": "jedy:barion_kuramaa"
+    }
+  }
+}

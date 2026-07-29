@@ -1,0 +1,24 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:chakra_e2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "###",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_e"
+      }
+    },
+    "result": {
+      "item": "jedy:chakra_e2"
+    }
+  }
+}

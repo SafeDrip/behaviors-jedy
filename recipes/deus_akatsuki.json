@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:deus_akatsuki"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#B#",
+      "#A#",
+      "#C#"
+    ],
+    "key": {
+      "A": {
+        "item": "jedy:deus_universal"
+      },
+      "B": {
+        "item": "jedy:foice_tripla"
+      },
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "C": {
+        "item": "jedy:roupa_akatsukirasgada"
+    }  
+    },
+    "result": {
+      "item": "jedy:deus_akatsuki"
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:deus_bijuu"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ABC",
+      "DEF",
+      "GHI"
+    ],
+    "key": {
+      "A": {
+        "item": "jedy:mk_shukaku2"
+      },
+      "B": {
+        "item": "jedy:mk_matatabi2"
+      },
+      "C": {
+        "item": "jedy:mk_isobu2"
+      },
+      "D": {
+        "item": "jedy:mk_songoku2"
+      },
+      "E": {
+        "item": "jedy:deus_universal"
+      },
+      "F": {
+        "item": "jedy:mk_saiken2"
+      },
+      "G": {
+        "item": "jedy:mk_choumei2"
+      },
+      "H": {
+        "item": "jedy:mk_gyuki2"
+      },
+      "I": {
+        "item": "jedy:mk_kurama2"
+    }  
+    },
+    "result": {
+      "item": "jedy:deus_bijuu"
+    }
+  }
+}

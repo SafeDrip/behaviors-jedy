@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:em_madara"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      "#A#",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:edot"
+      },
+      "A": {
+        "item": "jedy:m_madara"
+    }  
+    },
+    "result": {
+      "item": "jedy:em_madara"
+    }
+  }
+}

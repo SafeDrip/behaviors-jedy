@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:byakugan_ativado"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:giga_chakra"
+      },
+      "A": {
+        "item": "jedy:byakugan"
+    }  
+    },
+    "result": {
+      "item": "jedy:byakugan_ativado"
+    }
+  }
+}

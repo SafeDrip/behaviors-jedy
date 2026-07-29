@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:infinito"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "C#C",
+      "#A#",
+      "C#C"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:deus_universal"
+      },
+      "A": {
+        "item": "jedy:sharingan"
+      },
+      "C": {
+        "item": "jedy:deus_universal"
+    }  
+    },
+    "result": {
+      "item": "jedy:infinito"
+    }
+  }
+}

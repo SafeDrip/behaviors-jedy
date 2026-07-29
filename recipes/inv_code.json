@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:inv_code"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:kuchiyose"
+      },
+      "A": {
+        "item": "jedy:mantoj"
+    }  
+    },
+    "result": {
+      "item": "jedy:inv_code"
+    }
+  }
+}

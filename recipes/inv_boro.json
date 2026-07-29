@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:inv_boro"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:kuchiyose"
+      },
+      "A": {
+        "item": "minecraft:netherite_ingot"
+    }  
+    },
+    "result": {
+      "item": "jedy:inv_boro"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:erinnegan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      "#A#",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:edot"
+      },
+      "A": {
+        "item": "jedy:rinnegan"
+    }  
+    },
+    "result": {
+      "item": "jedy:erinnegan"
+    }
+  }
+}

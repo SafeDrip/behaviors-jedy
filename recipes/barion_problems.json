@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:barion_problems"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "B#B",
+      "#C#",
+      "BAB"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_natural"
+      },
+      "A": {
+        "item": "jedy:barion_kurama"
+      },
+      "B": {
+        "item": "jedy:hyper_chakra"
+      },
+      "C": {
+        "item": "jedy:gudoudama"
+    }  
+    },
+    "result": {
+      "item": "jedy:barion_problems"
+    }
+  }
+}

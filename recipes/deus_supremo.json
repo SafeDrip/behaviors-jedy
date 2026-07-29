@@ -1,0 +1,39 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:deus_supremo"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#D#",
+      "BAC",
+      "ZDZ"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:da_karma"
+      },
+      "Z": {
+        "item": "jedy:deus_hokage"
+      },
+      "D": {
+        "item": "jedy:infinito"
+      },
+      "B": {
+        "item": "jedy:karma2"
+      },
+      "C": {
+        "item": "jedy:karma_kaw"
+      },
+      "A": {
+        "item": "jedy:deus_universal_paz_universal"
+    }  
+    },
+    "result": {
+      "item": "jedy:deus_supremo"
+    }
+  }
+}

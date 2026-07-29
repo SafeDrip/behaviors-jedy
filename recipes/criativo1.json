@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:criativo1"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#B#",
+      "BAB",
+      "#C#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "A": {
+        "item": "minecraft:command_block"
+      },
+      "B": {
+        "item": "jedy:barion_kurama"
+      },
+      "C": {
+        "item": "jedy:baryon_corrompido"
+    }  
+    },
+    "result": {
+      "item": "jedy:criativo1"
+    }
+  }
+}

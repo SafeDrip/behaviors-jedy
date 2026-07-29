@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:bakuton2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_e2"
+      },
+      "A": {
+        "item": "jedy:bakuton"
+    }  
+    },
+    "result": {
+      "item": "jedy:bakuton2"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:chakra_natural"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "A": {
+        "item": "jedy:giga_chakra"
+    }  
+    },
+    "result": {
+      "item": "jedy:chakra_natural"
+    }
+  }
+}

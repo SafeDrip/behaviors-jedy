@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:barion_kurama_rinnegan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#Z#",
+      "ZAZ",
+      "#B#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "Z": {
+        "item": "jedy:giga_chakra"
+      },
+      "A": {
+        "item": "jedy:barion_kurama"
+      },
+      "B": {
+        "item": "jedy:rinnegan"
+    }  
+    },
+    "result": {
+      "item": "jedy:barion_kurama_rinnegan"
+    }
+  }
+}

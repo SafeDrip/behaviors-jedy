@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:deus_universal_paz_universal"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#B#",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:deus_shinobi2"
+      },
+      "B": {
+        "item": "jedy:deus_universal"
+      },
+      "A": {
+        "item": "jedy:deus_otsutsuki_destruicao_universal"
+    }  
+    },
+    "result": {
+      "item": "jedy:deus_universal_paz_universal"
+    }
+  }
+}

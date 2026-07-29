@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:genkai_paper3"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_e2"
+      },
+      "A": {
+        "item": "jedy:genkai_paper2"
+    }  
+    },
+    "result": {
+      "item": "jedy:genkai_paper3"
+    }
+  }
+}

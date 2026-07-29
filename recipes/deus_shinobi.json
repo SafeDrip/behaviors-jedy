@@ -1,0 +1,48 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:deus_shinobi"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "WBY",
+      "D#K",
+      "FRS"
+    ],
+    "key": {
+      "K": {
+        "item": "jedy:rinnegan_dourado2"
+      },
+      "D": {
+        "item": "jedy:rinnegan_vermelho2"
+      },
+      "F": {
+        "item": "jedy:isshikid"
+      },
+      "R": {
+        "item": "jedy:rinnegan_supremod"
+      },
+      "S": {
+        "item": "jedy:tenseigan3"
+      },
+      "#": {
+        "item": "jedy:rinnesharingan"
+      },
+      "W": {
+        "item": "jedy:ketsurygan3"
+      },
+            "B": {
+        "item": "jedy:sharinganc_completo"
+      },
+      "Y": {
+        "item": "jedy:rinnegan_azul2"
+    }  
+    },
+    "result": {
+      "item": "jedy:deus_shinobi"
+    }
+  }
+}

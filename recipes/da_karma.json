@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:da_karma"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#B#",
+      "#A#",
+      "#C#"
+    ],
+    "key": {
+      "A": {
+        "item": "jedy:deus_akatsuki"
+      },
+      "B": {
+        "item": "jedy:ultra_chakra"
+      },
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "C": {
+        "item": "jedy:karma_kaw"
+    }  
+    },
+    "result": {
+      "item": "jedy:da_karma"
+    }
+  }
+}

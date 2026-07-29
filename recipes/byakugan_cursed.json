@@ -1,0 +1,22 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:byakugan_cursed"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A"
+    ],
+    "key": {
+      "A": {
+        "item": "jedy:byakugan_ativado"
+    }  
+    },
+    "result": {
+      "item": "jedy:byakugan_cursed"
+    }
+  }
+}

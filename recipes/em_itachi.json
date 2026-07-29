@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:em_itachi"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      "#A#",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:edot"
+      },
+      "A": {
+        "item": "jedy:m_itachi"
+    }  
+    },
+    "result": {
+      "item": "jedy:em_itachi"
+    }
+  }
+}

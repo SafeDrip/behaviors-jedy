@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:barion_kurama_lava"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#B#",
+      "BAB",
+      "#B#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_bijuu"
+      },
+      "A": {
+        "item": "jedy:barion_kurama"
+      },
+      "B": {
+        "item": "jedy:katon"
+    }  
+    },
+    "result": {
+      "item": "jedy:barion_kurama_lava"
+    }
+  }
+}

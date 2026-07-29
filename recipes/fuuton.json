@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:fuuton"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:frag_fuuton"
+      },
+      "A": {
+        "item": "jedy:chakra"
+    }  
+    },
+    "result": {
+      "item": "jedy:fuuton"
+    }
+  }
+}

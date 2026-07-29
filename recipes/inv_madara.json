@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:inv_madara"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:kuchiyose"
+      },
+      "A": {
+        "item": "jedy:mask_tobi"
+    }  
+    },
+    "result": {
+      "item": "jedy:inv_madara"
+    }
+  }
+}

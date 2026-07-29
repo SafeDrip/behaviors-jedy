@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:inv_hidan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A#A",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:kuchiyose"
+      },
+      "A": {
+        "item": "jedy:m_odio"
+    }  
+    },
+    "result": {
+      "item": "jedy:inv_hidan"
+    }
+  }
+}

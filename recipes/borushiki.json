@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:borushiki"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "#Z#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:jogan"
+        
+      },
+      "Z": {
+        "item": "jedy:dna_otsutsuki"
+      },
+      "A": {
+        "item": "jedy:karma2"
+    }  
+    },
+    "result": {
+      "item": "jedy:borushiki"
+    }
+  }
+}

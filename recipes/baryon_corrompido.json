@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:baryon_corrompido"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_bijuu"
+      },
+      "A": {
+        "item": "jedy:rikudo_corrompido"
+    }  
+    },
+    "result": {
+      "item": "jedy:baryon_corrompido"
+    }
+  }
+}

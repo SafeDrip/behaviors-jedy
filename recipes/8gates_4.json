@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:8gates_4"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:giga_chakra"
+      },
+      "A": {
+        "item": "jedy:8gates_3"
+    }  
+    },
+    "result": {
+      "item": "jedy:8gates_4"
+    }
+  }
+}

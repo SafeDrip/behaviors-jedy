@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:inv_kisame"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A#A",
+      "CAC",
+      "ACA"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:kuchiyose"
+      },
+      "A": {
+        "item": "jedy:suiton"
+      },
+      "C": {
+        "item": "jedy:chakra_bijuu"
+    }  
+    },
+    "result": {
+      "item": "jedy:inv_kisame"
+    }
+  }
+}
