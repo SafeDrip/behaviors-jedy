@@ -1,0 +1,275 @@
+{
+
+    "tiers": [
+      {
+        "trades": [
+          {
+            "wants": [
+              {
+                "item": "jedy:dna_uchiha",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:dna_sasuke",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:dna_uchiha",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:dna_itachi",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                {
+            "wants": [
+              {
+                "item": "jedy:dna_uchiha",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:dna_madara",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:dna_uchiha",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:dna_shisui",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:dna_uchiha",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:dna_obito",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:marca1",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 26
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:celula_h",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "minecraft:diamond",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "minecraft:golden_apple",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "minecraft:diamond",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:maleta",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:frasco",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 50
+              }
+            ],
+            "gives": [
+              {
+                "item": "minecraft:iron_block",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 300
+              }
+            ],
+            "gives": [
+              {
+                "item": "minecraft:diamond_block",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 60
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:genkai",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          }
+        ]
+      }
+    ]
+  }

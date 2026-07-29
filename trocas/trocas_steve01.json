@@ -1,0 +1,123 @@
+{
+
+    "tiers": [
+      {
+        "trades": [
+          {
+            "wants": [
+              {
+                "item": "jedy:ultra_chakra",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:nara",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+         {
+            "wants": [
+              {
+                "item": "jedy:ultra_chakra",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bakuton",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                "item": "jedy:ultra_chakra",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:borboleta",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                "item": "jedy:ultra_chakra",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:m_shin",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                "item": "jedy:ultra_chakra",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:modo_uzumaki",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                "item": "jedy:ultra_chakra",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:marca1",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          }
+        ]
+      }
+    ]
+  }

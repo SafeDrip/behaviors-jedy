@@ -1,0 +1,66 @@
+{
+
+    "tiers": [
+      {
+        "trades": [
+          {
+            "wants": [
+              {
+                "item": "jedy:dna_otsutsuki",
+                "quantity": 9
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:pilulas",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:rinnegan_supremo",
+                "quantity": 6
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_jigen",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                {
+            "wants": [
+              {
+                "item": "jedy:dna_uchiha",
+                "quantity": 40
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:dna_otsutsuki",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          }
+        ]
+      }
+    ]
+  }

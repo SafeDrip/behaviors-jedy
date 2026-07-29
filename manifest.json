@@ -1,0 +1,24 @@
+{
+  "format_version": 2,
+  "header": {
+   "description": "§a§l§oADDON CREATED BY JEDY TENSEI, EDITED BY STEVE01",
+    "name": "§lNaruto Jedy Naruto x Boruto 27.0[B]",
+    "uuid": "42f7df28-6ddb-11f0-9304-325096b39f47",
+    "version": [0, 0, 1],
+    "min_engine_version": [1, 13, 0]
+  },
+  "modules": [
+    {
+   "description": "§a§l§oADDON CREATED BY JEDY TENSEI, EDITED BY STEVE01.",
+      "type": "data",
+      "uuid": "d5578827-282e-45cc-8e09-aca17f227abe",
+      "version": [0, 0, 1]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "1c45f245-f1a4-4dd0-b66a-17df28719cad",
+      "version": [0, 0, 1]
+    }
+  ]
+}

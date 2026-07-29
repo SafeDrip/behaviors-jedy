@@ -1,0 +1,246 @@
+{
+
+    "tiers": [
+      {
+        "trades": [
+          {
+            "wants": [
+              {
+                "item": "jedy:dna_uchiha",
+                "quantity": 64
+              },
+               {
+                "item": "jedy:susanoo_in3",
+                "quantity": 16
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:susanoo_jedy",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:kuchiyose",
+                "quantity": 30
+              },
+               {
+                "item": "jedy:dna_otsutsuki",
+                "quantity": 30
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_code",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+               {
+            "wants": [
+              {
+                "item": "jedy:kuchiyose",
+                "quantity": 30
+              },
+               {
+                "item": "jedy:dna_otsutsuki",
+                "quantity": 30
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_boro",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:kuchiyose",
+                "quantity": 64
+              },
+               {
+                "item": "jedy:dna_otsutsuki",
+                "quantity": 64
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_jigen",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                "item": "jedy:kuchiyose",
+                "quantity": 30
+              },
+               {
+                "item": "jedy:rc",
+                "quantity": 30
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_orochimaru2",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+    {
+            "wants": [
+              {
+                "item": "jedy:kuchiyose",
+                "quantity": 30
+              },
+               {
+                "item": "jedy:dna_obito",
+                "quantity": 30
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_obito",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                      {
+            "wants": [
+              {
+                "item": "jedy:kuchiyose",
+                "quantity": 30
+              },
+               {
+                "item": "jedy:dna_madara",
+                "quantity": 30
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_madara",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                     {
+            "wants": [
+              {
+                "item": "jedy:kuchiyose",
+                "quantity": 30
+              },
+               {
+                "item": "jedy:roupa_akatsukirasgada",
+                "quantity": 1
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_hidan",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                    {
+            "wants": [
+              {
+                "item": "jedy:kuchiyose",
+                "quantity": 30
+              },
+               {
+                "item": "jedy:roupa_akatsukirasgada",
+                "quantity": 1
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:inv_pain",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                    {
+            "wants": [
+           
+               {
+                "item": "jedy:chakra_e2",
+                "quantity": 64
+              }
+              
+            ],
+            "gives": [
+              {
+                "item": "jedy:modoteste",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          }
+
+        ]
+      }
+    ]
+  }

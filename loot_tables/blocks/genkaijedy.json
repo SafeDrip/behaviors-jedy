@@ -1,0 +1,120 @@
+{
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/1.json",
+     "weight": 10
+    },
+    {
+     "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/2.json",
+     "weight": 10
+    },
+    {
+     "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/3.json",
+     "weight": 10
+    },
+    {
+     "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/4.json",
+     "weight": 10
+    },
+    {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/6.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/7.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/8.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/9.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/10.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/11.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/12.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/13.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/14.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/15.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/16.json",
+     "weight": 10
+    },
+        {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/17.json",
+     "weight": 6
+    },
+            {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/18.json",
+     "weight": 6
+    },
+            {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/19.json",
+     "weight": 6
+    },
+            {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/20.json",
+     "weight": 6
+    },
+            {
+         "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/21.json",
+     "weight": 3
+    },
+    {
+             "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/22.json",
+     "weight": 3
+    },
+    {
+     "type": "loot_table",
+     "name": "loot_tables/blocks/genkais/5.json",
+     "weight": 10
+     }
+    ]
+   }
+  ]
+ }
+}

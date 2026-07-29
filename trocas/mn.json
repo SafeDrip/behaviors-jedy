@@ -1,0 +1,123 @@
+{
+
+    "tiers": [
+      {
+        "trades": [
+          {
+            "wants": [
+              {
+                "item": "minecraft:diamond",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:skin1",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+              "item": "minecraft:diamond",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:maleta",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                {
+            "wants": [
+              {
+                  "item": "minecraft:diamond",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:skin2",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                  "item": "jedy:ryo_acumulado",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_narutob",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                  "item": "minecraft:diamond",
+                "quantity": 32
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:skin",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+           {
+            "wants": [
+              {
+                  "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:skin3",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          }
+        ]
+      }
+    ]
+  }

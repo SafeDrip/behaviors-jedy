@@ -1,0 +1,437 @@
+{
+
+    "tiers": [
+      {
+        "trades": [
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_konoha",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_areia",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 5
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_neji",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+              {
+            "wants": [
+              {
+                "item": "jedy:ryo",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_nevoa",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+           {
+            "wants": [
+              {
+                "item": "jedy:ryo",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_nuvem",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+              {
+            "wants": [
+              {
+                "item": "jedy:ryo",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_pedra",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+           {
+            "wants": [
+              {
+                "item": "jedy:ryo",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_akatsuki",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_kara",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+              {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_jedy",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                              {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bandana_konoha",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+ {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 1
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_taijutsu",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                            {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 5
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_zabuza",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                            {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 5
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_obitokid",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                            {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 5
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_narutoc",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                               {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 5
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:boruto2",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                   {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 5
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_boruto",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+          
+                                                   {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_akatsuki",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_akatsukiwhite",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                         {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_clan_uchiha",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                         {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_akatsukirasgada",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                                   {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_clan_uchiha",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                         {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_akatsukirasgada",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                                   {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_senju",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                         {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_senjuazul",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                               {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_otsutsuki",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          },
+                                                               {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_otsutsukisombrio",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "reward_exp": true
+          }
+
+
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,294 @@
+{
+
+    "tiers": [
+      {
+        "trades": [
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo",
+                "quantity": 16
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:kunai",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+          {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 50
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:hiraishin",
+                "quantity": 32
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+                {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 100
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:foice_tripla",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 150
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:kubikiribocho",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 200
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:samehada_selada",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 350
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:gunbai",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 200
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:bastao_enma",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 350
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:kusanagi_orochimaru",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 400
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:kusanagi_sasuke",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:costas_kubikiribocho",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:costas_foice_tripla",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:costas_gunbai",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:costas_shakujo_h",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 10
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:costas_shakujo_m",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          },
+             {
+            "wants": [
+              {
+                "item": "jedy:ryo_acumulado",
+                "quantity": 64
+              }
+            ],
+            "gives": [
+              {
+                "item": "jedy:roupa_boruto",
+                "quantity": 1
+              }
+            ],
+            "max_uses": 10,
+            "trader_exp": 1,
+            "price_multiplier_a": 0.0,
+            "price_multiplier_b": 0.0,
+            "tier": 1
+          }
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,26 @@
+
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo",
+              "quantity": {
+                "min": 10,
+                "max": 10
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:hotdog_kamui"
+            }
+          ]
+        }
+           ]
+      
+    }
+  ]
+}

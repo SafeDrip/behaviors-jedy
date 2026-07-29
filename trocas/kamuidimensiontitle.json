@@ -1,0 +1,196 @@
+
+{
+  "tiers": [
+    {
+      "trades": [
+        {
+          "wants": [
+            {
+              "item": "jedy:chakra",
+              "quantity": {
+                "min": 6,
+                "max": 6
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:sharingan"
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "jedy:giga_chakra",
+              "quantity": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:m_odio"
+              
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "jedy:giga_chakra",
+              "quantity": {
+                "min": 4,
+                "max": 4
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:jutsu_genjutsu",
+              "quantity": {
+                "min": 1,
+                "max": 1
+              }
+                  }
+              ]
+            },
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo_acumulado",
+              "quantity": {
+                "min": 5,
+                "max": 5
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:roupa_akatsuki"
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo",
+              "quantity": {
+                "min": 1,
+                "max": 1
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:bandana_akatsuki"
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo_acumulado",
+              "quantity": {
+                "min": 3,
+                "max": 3
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:mask_tobi"
+                  }
+              ]
+            },
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo_acumulado",
+              "quantity": {
+                "min": 5,
+                "max": 5
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:hiraishin",
+              "quantity": {
+                "min": 1,
+                "max": 1
+              }
+                  }
+              ]
+            },
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo_acumulado",
+              "quantity": {
+                "min": 12,
+                "max": 12
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:gunbai"
+              
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo_acumulado",
+              "quantity": {
+                "min": 8,
+                "max": 8
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:samehada_selada"
+                  }
+              ]
+            },
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo_acumulado",
+              "quantity": {
+                "min": 7,
+                "max": 7
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:foice_tripla"
+            }
+          ]
+        },
+        {
+          "wants": [
+            {
+              "item": "jedy:ryo",
+              "quantity": {
+                "min": 4,
+                "max": 4
+              }
+            }
+          ],
+          "gives": [
+            {
+              "item": "jedy:costas_gunbai"
+                  }
+              ]
+            }
+           ]
+      
+    }
+  ]
+}
