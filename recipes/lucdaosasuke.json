@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:lucdaosasuke"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:rinnegan_supremod"
+      },
+      "A": {
+        "item": "jedy:modo_juubi"
+    }  
+    },
+    "result": {
+      "item": "jedy:lucdaosasuke"
+    }
+  }
+}

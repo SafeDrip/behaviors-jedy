@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:manto1_corrompido"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:rc"
+      },
+      "A": {
+        "item": "jedy:manto_kurama1"
+    }  
+    },
+    "result": {
+      "item": "jedy:manto1_corrompido"
+    }
+  }
+}

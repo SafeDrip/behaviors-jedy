@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:inv_sasukeb"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      " B "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:kuchiyose"
+      },
+      "A": {
+        "item": "jedy:m_sasuke3"
+    },
+          "B": {
+        "item": "jedy:rinnegan_supremo"
+    }  
+    },
+    "result": {
+      "item": "jedy:inv_sasukeb"
+    }
+  }
+}

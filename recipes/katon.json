@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:katon"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:frag_katon"
+      },
+      "A": {
+        "item": "jedy:chakra"
+    }  
+    },
+    "result": {
+      "item": "jedy:katon"
+    }
+  }
+}

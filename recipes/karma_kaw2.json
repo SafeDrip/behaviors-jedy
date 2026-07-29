@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:karma_kaw2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:pilulas"
+      },
+      "A": {
+        "item": "jedy:karma_kaw"
+    }  
+    },
+    "result": {
+      "item": "jedy:karma_kaw2"
+    }
+  }
+}

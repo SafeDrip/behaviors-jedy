@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:karma_kaw_sharingan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "#B#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "A": {
+        "item": "jedy:sharingan"
+      },
+      "B": {
+        "item": "jedy:karma_kaw"
+    }  
+    },
+    "result": {
+      "item": "jedy:karma_kaw_sharingan"
+    }
+  }
+}

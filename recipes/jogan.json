@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:jogan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#Z#",
+      "ZAZ",
+      "#Z#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:giga_chakra"
+      },
+      "Z": {
+        "item": "jedy:chakra"
+      },
+      "A": {
+        "item": "jedy:byakugan_otsutsuki"
+    }  
+    },
+    "result": {
+      "item": "jedy:jogan"
+    }
+  }
+}

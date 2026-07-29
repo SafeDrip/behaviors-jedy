@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:m_obito"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#A#",
+      "#B#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "A": {
+        "item": "jedy:m_odio"
+      },
+      "B": {
+        "item": "jedy:m_kakashi"
+    }  
+    },
+    "result": {
+      "item": "jedy:m_obito"
+    }
+  }
+}

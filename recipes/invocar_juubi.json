@@ -1,0 +1,48 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:invocar_juubi"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "123",
+      "456",
+      "789"
+    ],
+    "key": {
+      "1": {
+        "item": "jedy:mk_shukaku2"
+      },
+      "2": {
+        "item": "jedy:mk_matatabi2"
+      },
+      "3": {
+        "item": "jedy:mk_isobu2"
+      },
+      "4": {
+        "item": "jedy:mk_songoku2"
+      },
+      "5": {
+        "item": "jedy:mk_kokuo2"
+      },
+      "6": {
+        "item": "jedy:mk_saiken2"
+      },
+      "7": {
+        "item": "jedy:mk_choumei2"
+      },
+      "8": {
+        "item": "jedy:mk_gyuki2"
+      },
+      "9": {
+        "item": "jedy:mk_kurama2"
+    }  
+    },
+    "result": {
+      "item": "jedy:invocar_juubi"
+    }
+  }
+}

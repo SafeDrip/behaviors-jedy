@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:karma_dourado"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "#B#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "A": {
+        "item": "jedy:rinnegan_dourado"
+      },
+      "B": {
+        "item": "jedy:karma"
+    }  
+    },
+    "result": {
+      "item": "jedy:karma_dourado"
+    }
+  }
+}

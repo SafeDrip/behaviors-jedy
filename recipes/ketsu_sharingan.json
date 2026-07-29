@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:ketsu_sharingan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#A#",
+      "#B#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:giga_chakra"
+      },
+      "A": {
+        "item": "jedy:ketsurygan"
+      },
+      "B": {
+        "item": "jedy:sharingan"
+    }  
+    },
+    "result": {
+      "item": "jedy:ketsu_sharingan"
+    }
+  }
+}

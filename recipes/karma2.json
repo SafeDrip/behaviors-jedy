@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:karma2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "#Z#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:giga_chakra"
+        
+      },
+      "Z": {
+        "item": "jedy:dna_otsutsuki"
+      },
+      "A": {
+        "item": "jedy:karma"
+    }  
+    },
+    "result": {
+      "item": "jedy:karma2"
+    }
+  }
+}

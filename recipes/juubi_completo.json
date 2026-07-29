@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:juubi_completo"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#Z#",
+      "ZAZ",
+      "#Z#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:rinnesharingan"
+        
+      },
+      "Z": {
+        "item": "jedy:modo_juubi"
+      },
+      "A": {
+        "item": "jedy:barion_juubi"
+    }  
+    },
+    "result": {
+      "item": "jedy:juubi_completo"
+    }
+  }
+}

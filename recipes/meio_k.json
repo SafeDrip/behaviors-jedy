@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:meio_k"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ketsurygan"
+      },
+      "A": {
+        "item": "jedy:maleta"
+    }  
+    },
+    "result": {
+      "item": "jedy:meio_k"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:ki"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+       "#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:super_ki"
+      }
+    },
+    "result": {
+      "item": "jedy:ki",
+      "count": 9
+    }
+  }
+}

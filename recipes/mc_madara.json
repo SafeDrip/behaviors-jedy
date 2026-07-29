@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:mc_madara"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#B#",
+      "BAB",
+      "#B#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:celula_u"
+      },
+      "A": {
+        "item": "jedy:sharinganc"
+      },
+      "B": {
+        "item": "jedy:dna_madara"
+    }  
+    },
+    "result": {
+      "item": "jedy:mc_madara"
+    }
+  }
+}

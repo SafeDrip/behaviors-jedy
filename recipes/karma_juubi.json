@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:karma_juubi"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "AOB",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_natural"
+      },
+      "A": {
+        "item": "jedy:karma_kaw"
+      },
+      "B": {
+        "item": "jedy:modo_juubi"
+      },
+      "O": {
+        "item": "jedy:karma_total"
+    }  
+    },
+    "result": {
+      "item": "jedy:karma_juubi"
+    }
+  }
+}

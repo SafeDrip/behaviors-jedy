@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:karmabo3"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "c#c",
+      "jAb",
+      "ccc"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:rinnegan_azul"
+      },
+      "j": {
+        "item": "jedy:jogan"
+      },
+      "b": {
+        "item": "jedy:byakugan"
+      },
+      "A": {
+        "item": "jedy:karma2"
+    }  
+    },
+    "result": {
+      "item": "jedy:karmabo3"
+    }
+  }
+}

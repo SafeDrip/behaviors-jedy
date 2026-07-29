@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:inv_madaraj"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "A#A",
+      "ACA",
+      "AAA"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:kuchiyose"
+      },
+      "A": {
+        "item": "jedy:gudoudama"
+      },
+      "C": {
+        "item": "jedy:modo_juubi"
+    }  
+    },
+    "result": {
+      "item": "jedy:inv_madaraj"
+    }
+  }
+}

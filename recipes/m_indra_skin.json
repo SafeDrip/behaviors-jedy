@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:m_indra_jedyin"
+    },
+
+    
+    "tags": [ "jedy" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:jedyin2"
+      },
+      "A": {
+        "item": "jedy:m_indra"
+    }  
+    },
+    "result": {
+      "item": "jedy:m_indra_jedyin"
+    }
+  }
+}
