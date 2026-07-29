@@ -1,0 +1,17 @@
+{
+    "format_version": "1.20.80",
+    "minecraft:item": {
+        "description": {
+            "identifier": "jedy:ryo",
+            "category": "Nature"
+        },
+        "components": {
+            "minecraft:icon": "ryo",
+            "minecraft:display_name":  {"value":"§l§eRyo"},
+            "minecraft:hand_equipped": false,
+            "minecraft:max_stack_size": 64,
+            "minecraft:foil": false,
+            "minecraft:stack_by_data": true
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:shakujo_n",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+		       "minecraft:display_name": {"value":"§l§c Shakujo Naruto \n§a✪Raridade: §d Arma Lendária\n§8✪Nível: Em breve \n§bAjuste: Skill"
+      },
+			"minecraft:cooldown": {
+				"category": "shakujo_n",
+				"duration": 100
+			},
+			"minecraft:icon": "shakujo_n",
+         "minecraft:damage": 35,
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_modifiers": {
+				"use_duration": 99999,
+				"movement_modifier": 0.5
+			}
+		}
+	}
+}

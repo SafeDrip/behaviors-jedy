@@ -1,0 +1,27 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:rinneganp",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.helmet"
+			}
+		},
+		"components": {
+			"minecraft:display_name": {
+				"value": "§l§oRinnegan P"
+			},
+			"minecraft:max_rinneganpack_size": 1,
+			"minecraft:enchantable": {
+				"value": 10,
+				"slot": "armor_head"
+			},
+			"minecraft:icon": "rinneganp",
+			"minecraft:wearable": {
+				"slot": "slot.armor.head",
+				"protection": 0
+			}
+		}
+	}
+}

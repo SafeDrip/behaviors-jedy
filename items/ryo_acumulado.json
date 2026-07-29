@@ -1,0 +1,17 @@
+{
+    "format_version": "1.20.80",
+    "minecraft:item": {
+        "description": {
+            "identifier": "jedy:ryo_acumulado",
+            "category": "Nature"
+        },
+        "components": {
+            "minecraft:icon": "ryo_acumulado",
+            "minecraft:display_name":  {"value":"§l§eRyo Acumulado"},
+            "minecraft:hand_equipped": false,
+            "minecraft:max_stack_size": 64,
+            "minecraft:foil": false,
+            "minecraft:stack_by_data": true
+        }
+    }
+}

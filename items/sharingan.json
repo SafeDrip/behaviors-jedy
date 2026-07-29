@@ -1,0 +1,27 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:sharingan",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.helmet"
+			}
+		},
+		"components": {
+			"minecraft:display_name": {
+				"value": "§l§oSharingan"
+			},
+			"minecraft:max_stack_size": 1,
+			"minecraft:enchantable": {
+				"value": 10,
+				"slot": "armor_head"
+			},
+			"minecraft:icon": "sharingan",
+			"minecraft:wearable": {
+				"slot": "slot.armor.head",
+				"protection": 0
+			}
+		}
+	}
+}

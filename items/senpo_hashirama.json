@@ -1,0 +1,27 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:senpo_hashirama",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.boots"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:enchantable": {
+				"value": 0,
+				"slot": "armor_feet"
+			},
+			"minecraft:display_name": {
+				"value": "§l§aModo Sabio Mokuton Nvl 1"
+			},
+			"minecraft:icon": "senpo_hashirama",
+			"minecraft:wearable": {
+				"slot": "slot.armor.feet",
+				"protection": 0
+			}
+		}
+	}
+}

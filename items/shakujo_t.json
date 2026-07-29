@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:shakujo_t",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+		   "minecraft:display_name": {"value":"§l§c Shakujo Toneri \n§a✪Raridade: §d Arma proibida\n§8✪Nível: Em breve \n§bAjuste: Em Skill"
+      },
+			"minecraft:cooldown": {
+				"category": "shakujo_t",
+				"duration": 100
+			},
+			"minecraft:icon": "shakujo_t",
+         "minecraft:damage": 40,
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_modifiers": {
+				"use_duration": 99999,
+				"movement_modifier": 0.5
+			}
+		}
+	}
+}
