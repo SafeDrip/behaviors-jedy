@@ -1,0 +1,27 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:karma_code",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.boots"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:enchantable": {
+				"value": 0,
+				"slot": "armor_feet"
+			},
+			"minecraft:display_name": {
+				"value": "§l§bKarma Code"
+			},
+			"minecraft:icon": "karma_code",
+			"minecraft:wearable": {
+				"slot": "slot.armor.feet",
+				"protection": 0
+			}
+		}
+	}
+}
