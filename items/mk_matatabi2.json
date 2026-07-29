@@ -1,0 +1,34 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:mk_matatabi2",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.helmet"
+			}
+		},
+		"components": {
+			"minecraft:display_name": {
+				"value": "§l§bMK Matatabi §dFase 2"
+			},
+			"minecraft:max_stack_size": 1,
+			"minecraft:enchantable": {
+				"value": 10,
+				"slot": "armor_head"
+			},
+			"minecraft:durability": {
+				"max_durability": 10000,
+				"damage_chance": {
+					"min": 60,
+					"max": 100
+				}
+			},
+			"minecraft:icon": "mk_matatabi2",
+			"minecraft:wearable": {
+				"slot": "slot.armor.head",
+				"protection": 0
+			}
+		}
+	}
+}

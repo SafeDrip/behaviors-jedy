@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jedy:raiton"
+    },
+    
+    "components": {
+      "minecraft:icon": "raiton",
+      "minecraft:display_name":  {"value":"§l§eRaiton"},
+      "minecraft:hand_equipped": false,
+      "minecraft:stacked_by_data": false,
+      "minecraft:use_duration": 64,
+      "minecraft:foil": false
+    }
+  }
+}

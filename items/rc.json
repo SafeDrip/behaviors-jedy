@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jedy:rc"
+    },
+    
+    "components": {
+      "minecraft:icon": "rc",
+      "minecraft:display_name":  {"value":"§l§erc"},
+      "minecraft:max_stack_size": 64,
+      "minecraft:hand_equipped": false,
+      "minecraft:stacked_by_data": false,
+      "minecraft:foil": false
+    }
+  }
+}
