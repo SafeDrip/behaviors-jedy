@@ -1,0 +1,36 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "jedy:barion_kurama"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "jedy:chakra_bijuu"
+			},
+			"Z": {
+				"item": "jedy:giga_chakra"
+			},
+			"B": {
+				"item": "jedy:ying"
+			},
+			"C": {
+				"item": "jedy:yang"
+			},
+			"A": {
+				"item": "jedy:rikudo_naruto"
+			}
+		},
+		"pattern": [
+			"###",
+			"BAC",
+			"ZZZ"
+		],
+		"result": {
+			"item": "jedy:barion_kurama"
+		}
+	}
+}

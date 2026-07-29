@@ -1,0 +1,27 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "jedy:barion_juubi"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"#": {
+				"item": "jedy:fruto_chakra"
+			},
+			"A": {
+				"item": "jedy:modo_juubi"
+			}
+		},
+		"pattern": [
+			"###",
+			"#A#",
+			"###"
+		],
+		"result": {
+			"item": "jedy:barion_juubi"
+		}
+	}
+}
