@@ -1,0 +1,17 @@
+{
+    "format_version": "1.20.80",
+    "minecraft:item": {
+        "description": {
+            "identifier": "jedy:frag_katon",
+            "category": "Nature"
+        },
+        "components": {
+            "minecraft:icon": "frag_raiton",
+            "minecraft:display_name":  {"value":"§l§eFrag Katon"},
+            "minecraft:max_stack_size": 64,
+            "minecraft:hand_equipped": false,
+            "minecraft:foil": false,
+            "minecraft:stack_by_data": true
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jedy:celula_h"
+    },
+
+    "components": {
+      "max_stack_size":64,
+      "minecraft:display_name":  {"value":"§l§eCelula Hashirama"},
+      "minecraft:icon": "celula_h"
+    }
+  }
+}

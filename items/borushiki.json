@@ -1,0 +1,27 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:borushiki",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.helmet"
+			}
+		},
+		"components": {
+		   "minecraft:display_name": {
+    "value": "§l§d Borushiki \n§a✪Raridade: §a Lendário\n§8✪Nível: 1 \n§bFase: 3"
+            },
+			"minecraft:max_rinneganpack_size": 1,
+			"minecraft:enchantable": {
+				"value": 10,
+				"slot": "armor_head"
+			},
+			"minecraft:icon": "borushiki",
+			"minecraft:wearable": {
+				"slot": "slot.armor.head",
+				"protection": 0
+			}
+		}
+	}
+}

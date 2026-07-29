@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jedy:celula_u"
+    },
+    
+    "components": {
+      "minecraft:icon": "celula_u",
+      "minecraft:display_name":  {"value":"§lCelulau"},
+      "max_stack_size":64,
+      "minecraft:hand_equipped": false,
+      "minecraft:stacked_by_data": false,
+      "minecraft:foil": false
+    }
+  }
+}

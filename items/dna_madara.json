@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jedy:dna_madara"
+    },
+    
+    "components": {
+      "minecraft:icon": "dna_madara",
+      "minecraft:display_name":  {"value":"§lDna_Madara"},
+      "max_stack_size":64,
+      "minecraft:hand_equipped": false,
+      "minecraft:stacked_by_data": false,
+      "minecraft:foil": false
+    }
+  }
+}

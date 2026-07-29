@@ -1,0 +1,29 @@
+{
+  "format_version": "1.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jedy:bolinhodearroz",
+      "category": "nature"
+    },
+    "components": {
+      "minecraft:hand_equipped": false,
+      "minecraft:max_stack_size": 64,
+      "minecraft:foil": false,
+      "minecraft:stack_by_data": true,
+      "minecraft:food": {
+        "saturation_modifier": "normal",
+        "nutrition": 4,
+        "can_always_eat": true,
+        "effects": [
+          {
+            "name": "regeneration",
+            "chance": 1,
+            "duration": 15,
+            "amplifier": 1
+          }
+        ]
+      },
+      "minecraft:use_duration": 32
+    }
+  }
+}

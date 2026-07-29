@@ -1,0 +1,17 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jedy:hyper_chakra"
+    },
+    
+    "components": {
+      "minecraft:icon": "hyper_chakra",
+      "minecraft:display_name":  {"value":"§l§eChakra Hyper"},
+      "minecraft:max_stack_size": 64,
+      "minecraft:hand_equipped": false,
+      "minecraft:stacked_by_data": false,
+      "minecraft:foil": false
+    }
+  }
+}

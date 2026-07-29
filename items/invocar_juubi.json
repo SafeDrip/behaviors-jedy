@@ -1,0 +1,43 @@
+{
+  "format_version": "1.20.80",
+  "minecraft:item": {
+    "description": {
+      "identifier": "jedy:invocar_juubi",
+      "category": "items"
+    },
+    "components": {
+      "minecraft:wearable": {
+				"slot": "slot.weapon.offhand"
+			},
+      "minecraft:hand_equipped": true,
+      "minecraft:icon": "invocar_juubi",
+      "minecraft:display_name": {
+        "value": "Invocar_juubi"
+      },
+      "minecraft:use_duration": 9999,
+      "minecraft:max_stack_size": 1,
+      "minecraft:cooldown": {
+        "category": "summon_biju",
+        "duration": 0
+      },
+      "minecraft:on_use": {
+        "on_use": {
+          "event": "ming",
+          "target": "self"
+        }
+      },
+      "minecraft:food": {
+        "can_always_eat": true
+      }
+    },
+    "events": {
+      "ming": {
+        "run_command": {
+          "command": [
+            ""
+          ]
+        }
+      }
+    }
+  }
+}
