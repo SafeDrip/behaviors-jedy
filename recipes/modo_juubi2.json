@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:modo_juubi2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_e2"
+      },
+      "A": {
+        "item": "jedy:modo_juubi"
+    }  
+    },
+    "result": {
+      "item": "jedy:modo_juubi2"
+    }
+  }
+}

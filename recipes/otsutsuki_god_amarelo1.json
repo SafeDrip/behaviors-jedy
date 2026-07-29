@@ -1,0 +1,39 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:otsutsuki_god_amarelo1"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "VBD",
+      "FAF",
+      "FZF"
+    ],
+    "key": {
+      "F": {
+        "item": "jedy:fruto_chakra"
+      },
+      "Z": {
+        "item": "jedy:rinnegan_azul"
+      },
+      "D": {
+        "item": "jedy:rinnegan_dourado"
+      },
+      "B": {
+        "item": "jedy:barion_juubi"
+      },
+      "V": {
+        "item": "jedy:rinnegan_vermelho"
+      },
+      "A": {
+        "item": "jedy:rinnesharingan"
+    }  
+    },
+    "result": {
+      "item": "jedy:otsutsuki_god_amarelo1"
+    }
+  }
+}

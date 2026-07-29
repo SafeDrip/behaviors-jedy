@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rikudo_naruto_supremo"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#Z#",
+      "ZAZ",
+      "#Z#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ultra_chakra"
+        
+      },
+      "Z": {
+        "item": "jedy:rinnegan_supremo"
+      },
+      "A": {
+        "item": "jedy:rikudo_naruto"
+    }  
+    },
+    "result": {
+      "item": "jedy:rikudo_naruto_supremo"
+    }
+  }
+}

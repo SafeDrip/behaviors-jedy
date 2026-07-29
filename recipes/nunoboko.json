@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:nunoboko"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      " # "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:gudoudama"
+      },
+      "A": {
+        "item": "jedy:bastao_chakra"
+    }  
+    },
+    "result": {
+      "item": "jedy:nunoboko"
+    }
+  }
+}

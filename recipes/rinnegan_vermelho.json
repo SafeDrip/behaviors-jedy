@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rinnegan_vermelho"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "A": {
+        "item": "jedy:byakugan_dourado"
+    }  
+    },
+    "result": {
+      "item": "jedy:rinnegan_vermelho"
+    }
+  }
+}

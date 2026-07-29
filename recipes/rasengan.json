@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rasengan"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:fuuton"
+      },
+      "A": {
+        "item": "jedy:ultra_chakra"
+    }  
+    },
+    "result": {
+      "item": "jedy:rasengan"
+    }
+  }
+}

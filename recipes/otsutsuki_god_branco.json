@@ -1,0 +1,48 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:otsutsuki_god_branco"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "123",
+      "456",
+      "789"
+    ],
+    "key": {
+      "1": {
+        "item": "jedy:karma"
+      },
+      "2": {
+        "item": "jedy:ultra_chakra"
+      },
+      "3": {
+        "item": "jedy:karma_kaw"
+      },
+      "4": {
+        "item": "jedy:rinnegan_vermelho"
+      },
+      "5": {
+        "item": "jedy:barion_juubi"
+      },
+      "6": {
+        "item": "jedy:rinnegan_azul"
+      },
+      "7": {
+        "item": "jedy:giga_chakra"
+      },
+      "8": {
+        "item": "jedy:rinnegan_dourado"
+      },
+      "9": {
+        "item": "jedy:jogan6"
+    }  
+    },
+    "result": {
+      "item": "jedy:otsutsuki_god_branco"
+    }
+  }
+}

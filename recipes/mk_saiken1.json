@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:mk_saiken1"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_bijuu"
+      },
+      "A": {
+        "item": "jedy:manto_saiken2"
+    }  
+    },
+    "result": {
+      "item": "jedy:mk_saiken1"
+    }
+  }
+}

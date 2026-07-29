@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:modo_isobu"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_bijuu"
+      },
+      "A": {
+        "item": "jedy:barion_isobu"
+    }  
+    },
+    "result": {
+      "item": "jedy:modo_isobu"
+    }
+  }
+}

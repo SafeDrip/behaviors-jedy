@@ -1,0 +1,31 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:otsutsuki_god_perfeito"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "#Z#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:otsutsuki_god_branco"
+        
+      },
+      "Z": {
+        "item": "jedy:juubi_completo"
+      },
+      "A": {
+        "item": "jedy:otsutsuki_god_karma"
+    }  
+    },
+    "result": {
+      "item": "jedy:otsutsuki_god_perfeito"
+    }
+  }
+}

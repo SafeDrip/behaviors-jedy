@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rinnegan_supremo2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "AOB",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_e2"
+      },
+      "A": {
+        "item": "jedy:m_sasuke2"
+      },
+      "B": {
+        "item": "jedy:rinnegan2"
+      },
+      "O": {
+        "item": "jedy:dna_otsutsuki"
+    }  
+    },
+    "result": {
+      "item": "jedy:rinnegan_supremo2"
+    }
+  }
+}

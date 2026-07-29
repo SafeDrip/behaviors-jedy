@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:paper_skin"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " # ",
+      " A ",
+      "   "
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:skin3"
+      },
+      "A": {
+        "item": "jedy:genkai_paper"
+    }  
+    },
+    "result": {
+      "item": "jedy:paper_skin"
+    }
+  }
+}

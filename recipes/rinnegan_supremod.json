@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rinnegan_supremod"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "AOB",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "A": {
+        "item": "jedy:rinnegan"
+      },
+      "B": {
+        "item": "jedy:rinnegan2"
+      },
+      "O": {
+        "item": "jedy:dna_otsutsuki"
+    }  
+    },
+    "result": {
+      "item": "jedy:rinnegan_supremod"
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rikudo_naruto"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "ZZZ",
+      "BAC",
+      "ZZZ"
+    ],
+    "key": {
+      "Z": {
+        "item": "jedy:giga_chakra"
+      },
+      "B": {
+        "item": "jedy:dna_otsutsuki"
+      },
+      "C": {
+        "item": "jedy:ying"
+      },
+      "A": {
+        "item": "jedy:mk_kurama2"
+    }  
+    },
+    "result": {
+      "item": "jedy:rikudo_naruto"
+    }
+  }
+}

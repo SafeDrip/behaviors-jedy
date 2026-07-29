@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rm_obito"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "AOB",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra_natural"
+      },
+      "A": {
+        "item": "jedy:m_obito"
+      },
+      "B": {
+        "item": "jedy:rinnegan"
+      },
+      "O": {
+        "item": "jedy:dna_otsutsuki"
+    }  
+    },
+    "result": {
+      "item": "jedy:rm_obito"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:mk_karma_kaw"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "#B#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "A": {
+        "item": "jedy:mk_kurama2"
+      },
+      "B": {
+        "item": "jedy:karma_kaw"
+    }  
+    },
+    "result": {
+      "item": "jedy:mk_karma_kaw"
+    }
+  }
+}

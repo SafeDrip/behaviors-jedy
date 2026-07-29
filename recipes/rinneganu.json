@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:rinneganu"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "AOB",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "A": {
+        "item": "jedy:rinnegan_vermelho"
+      },
+      "B": {
+        "item": "jedy:rinnegan2"
+      },
+      "O": {
+        "item": "jedy:dna_otsutsuki"
+    }  
+    },
+    "result": {
+      "item": "jedy:rinneganu"
+    }
+  }
+}

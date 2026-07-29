@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:modo_otsutsuki"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "#A#",
+      "#A#",
+      "#A#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:ultra_chakra"
+      },
+      "A": {
+        "item": "jedy:rinnegan_dourado"
+    }  
+    },
+    "result": {
+      "item": "jedy:modo_otsutsuki"
+    }
+  }
+}

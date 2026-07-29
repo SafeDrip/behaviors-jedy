@@ -1,0 +1,33 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:raid"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      " A ",
+      "BPB",
+      "# #"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:pz"
+      },
+            "B": {
+        "item": "jedy:bz"
+      },
+                  "P": {
+        "item": "jedy:tz"
+      },
+      "A": {
+        "item": "jedy:cz"
+    }  
+    },
+    "result": {
+      "item": "jedy:raid"
+    }
+  }
+}

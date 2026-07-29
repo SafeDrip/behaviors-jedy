@@ -1,0 +1,30 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:mn_madara"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#B#",
+      "#A#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "A": {
+        "item": "jedy:m_odio"
+      },
+      "B": {
+        "item": "jedy:sharingan"
+    }  
+    },
+    "result": {
+      "item": "jedy:mn_madara"
+    }
+  }
+}

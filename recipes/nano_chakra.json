@@ -1,0 +1,23 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:nano_chakra"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+       "#"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:chakra"
+      }
+    },
+    "result": {
+      "item": "jedy:nano_chakra",
+      "count": 9
+    }
+  }
+}

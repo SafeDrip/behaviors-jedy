@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:mkr"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:rc3"
+      },
+      "A": {
+        "item": "jedy:manto_kurama3"
+    }  
+    },
+    "result": {
+      "item": "jedy:mkr"
+    }
+  }
+}

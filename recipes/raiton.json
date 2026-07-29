@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:raiton"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:frag_raiton"
+      },
+      "A": {
+        "item": "jedy:chakra"
+    }  
+    },
+    "result": {
+      "item": "jedy:raiton"
+    }
+  }
+}

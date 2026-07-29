@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:raid_shin"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:grampo"
+      },
+      "A": {
+        "item": "jedy:m_itachi"
+    }  
+    },
+    "result": {
+      "item": "jedy:raid_shin"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+    "identifier": "jedy:modo_uzumaki2"
+    },
+
+    
+    "tags": [ "crafting_table" ],
+    "pattern": [
+      "###",
+      "#A#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "jedy:hyper_chakra"
+      },
+      "A": {
+        "item": "jedy:modo_uzumaki"
+    }  
+    },
+    "result": {
+      "item": "jedy:modo_uzumaki2"
+    }
+  }
+}
