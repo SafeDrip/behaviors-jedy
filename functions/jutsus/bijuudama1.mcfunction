@@ -1,0 +1,4 @@
+event entity @s bijuudama
+
+
+
