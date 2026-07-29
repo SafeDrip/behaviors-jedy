@@ -1,0 +1,31 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:arma_jedy",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+		     "minecraft:display_name": {
+		"value": "§l§6Jedy"
+      },
+			"minecraft:cooldown": {
+				"category": "arma_jedy",
+				"duration": 100
+			},
+			"minecraft:icon": "arma_jedy",
+         "minecraft:damage": 40,
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:food": {
+				"can_always_eat": true
+			},
+			"minecraft:use_modifiers": {
+				"use_duration": 99999,
+				"movement_modifier": 0.5
+			}
+		}
+	}
+}

@@ -1,0 +1,38 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:costas_kubikiribocho",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.boots"
+			}
+		},
+		"components": {
+	"minecraft:display_name":  {"value":"§lKubikiribocho nas Costas"},
+			"minecraft:max_stack_size": 1,
+			"minecraft:enchantable": {
+				"value": 30,
+				"slot": "armor_feet"
+			},
+			"minecraft:durability": {
+				"max_durability": 3000,
+				"damage_chance": {
+					"min": 5,
+					"max": 10
+				}
+			},
+			"minecraft:allow_off_hand": true,
+			"minecraft:knockback_resistance": {
+				"protection": 2
+			},
+			"minecraft:armor": {
+				"protection": 8
+			},
+			"minecraft:icon": "costas_kubikiribocho",
+			"minecraft:wearable": {
+				"slot": "slot.armor.feet"
+			}
+		}
+	}
+}

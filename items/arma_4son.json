@@ -1,0 +1,30 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:arma_4son",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.sword"
+			}
+		},
+		"components": {
+			"minecraft:display_name": {
+				"value": "§l§cEspa§6dão-§cSon §6Goku §e[+34DMG]"
+			  },
+			"minecraft:can_destroy_in_creative": false,
+			"minecraft:durability": {
+				"max_durability": 5000
+			},
+			"minecraft:icon": "arma_4son",
+			"minecraft:damage": 34,
+			"minecraft:mining_speed": 1,
+			"minecraft:enchantable": {
+				"value": 34,
+				"slot": "sword"
+			},
+			"minecraft:hand_equipped": true,
+			"minecraft:max_stack_size": 1
+		}
+	}
+}

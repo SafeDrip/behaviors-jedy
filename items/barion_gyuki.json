@@ -1,0 +1,32 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "jedy:barion_gyuki",
+			"menu_category": {
+				"category": "nature",
+				"group": "itemGroup.name.helmet"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:enchantable": {
+				"value": 0,
+				"slot": "armor_head"
+			},
+			"minecraft:display_name": {"value": "§l§d§oBarion Gyuki"},
+			"minecraft:durability": {
+				"max_durability": 10000,
+				"damage_chance": {
+					"min": 60,
+					"max": 100
+				}
+			},
+			"minecraft:icon": "barion_gyuki",
+			"minecraft:wearable": {
+				"slot": "slot.armor.head",
+				"protection": 0
+			}
+		}
+	}
+}
